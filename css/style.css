@@ -1,0 +1,139 @@
+
+*
+{
+margin:0 auto;
+
+}
+
+P
+{
+ font-size: 25PX;
+
+} 
+
+body
+{
+ background-color: #EDF3FE;
+  
+ }
+
+.wrapper
+{
+
+ width:1150px;
+  border:0px solid black;
+
+
+}
+
+
+
+
+.header {
+	 width:100%;
+ 	 height:100px;
+ 	 background-color:#D3D3D3;
+ 	/* border:2px solid black;*/
+ 	 margin: 15px 0px;
+
+	 }
+
+
+	 .logo 
+	 {
+ width:20%;
+	 	margin:25px 0px;
+	 	float:left;
+	 	font-size: 30px;
+	 }
+ .nav h3
+	 {
+width:60%;
+font-size: 25px;
+	 	margin:36px -86px;
+	 	float:right;
+	 }
+
+
+.banner {
+	 width:100%;
+ 	 height:150px;
+ 	 background-color:#D3D3D3;
+ 	/* border:2px solid black;*/
+ 	 margin: 27px 0px ;
+}
+
+.banner-part {
+
+     width:100%;
+ 	 height:120px;
+ 	 background-color:#D3D3D3;
+ 	/* border:2px solid #FCCC04;*/
+ 	 margin: 30px 0px;
+
+}
+
+.section {
+
+     width:100%;
+ 	 height:400px;
+ 	 display: inline-block;
+ 	/* border:2px solid #CC0404;*/
+ overflow:hidden;
+  float:left;
+ margin: 8px 0px ;
+ 	
+
+
+
+}
+
+.section1 {
+
+width:30%;
+ 	 height:380px;
+ 	 background-color:#D3D3D3;
+ 	/* border:2px solid #CC0404;*/
+ 	 margin: 4px 16px 0px 18px;
+ 	 
+ 	  float:left;
+ 	
+}
+
+.section2 {
+
+width:30%;
+ 	 height:380px;
+ 	 background-color:#D3D3D3;
+ 	/* border:2px solid #9C34FC;*/
+ 	 margin: 4px 16px 0px 18px;
+ 	 float:left;
+ 	 
+ 	
+
+
+}
+
+.section3 {
+
+	width:30%;
+ 	 height:380px;
+ 	 background-color:#D3D3D3;
+ 	/* border:2px solid black;*/
+ 	  display: inline-block;
+ 	  margin: 4px 16px 0px 18px;
+ 	  float:left;
+ 	 
+	}
+
+
+.footer {
+	display:inline-block;
+    width:100%;
+ 	 height:60px;
+ 	 background-color:#D3D3D3;
+ 	/* border:2px solid black;*/
+ 	 margin: 0px 0px;
+ 	
+}
+
